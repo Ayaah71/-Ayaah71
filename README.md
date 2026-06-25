@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **AI Engineering Student** @ Applied International School (AIS), Egypt
+- 🎓 **AI Engineering **  Alamein International University (AIS), Egypt
 - 🤖 Passionate about **Computer Vision**, **NLP**, and **Machine Learning**
 - 🧬 Built a **Brain Tumor Detection system** using CNNs
 - 💡 Worked on **rule-based AI**, **RL agents**, and **cloud-based learning platforms**
