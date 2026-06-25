@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aya+Mamdouh+%F0%9F%91%8B;AI+Engineering+Student;AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aya+Mamdouh+%F0%9F%91%8B;AI+Engineer;NLP+%7C+ML+%7C+Recommender+Systems;Building+Intelligent+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -8,11 +8,11 @@
 
 ## 🧠 About Me
 
-- 🎓 **AI Engineering** graduate @ Alamein International University (AIU), Egypt
-- 🤖 Passionate about **AI**, **NLP**, and **Machine Learning**
-- 🧬 Built a **Brain Tumor Detection system** using CNNs
-- 💡 Worked on **rule-based AI**, **RL agents**, and **cloud-based learning platforms**
-- 🌍 Based in **Egypt** | Open to collaborations & internships
+- 🎓 **AI Engineering Graduate** @ Alamein International University (AIU), Egypt — Class of 2026
+- 🤖 Passionate about **NLP**, **Machine Learning**, and **Recommender Systems**
+- 🏆 Graduation Project: **AI-powered career guidance platform** using NLP & ML
+- 💡 Worked on **text-to-video diffusion models**, **self-healing automation**, **deep learning**, and **network design**
+- 🌍 Based in **Egypt** | Open to collaborations & opportunities
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aya-mamdouh-bb8143258/)
 
 ---
@@ -24,7 +24,6 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://skillicons.dev/icons?i=jupyter)
 ![Git](https://skillicons.dev/icons?i=git)
@@ -38,9 +37,33 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Brain Tumor Detection — CNN](https://github.com/Ayaah71/Brain-tumor-CNN)
-> Deep learning model using Convolutional Neural Networks to classify brain MRI scans for tumor detection.
+### 🏆 [AI Skill Mentor for Job Seekers](https://github.com/Rodina404/AI-Skill-Mentor-Job-Seekers) — *Graduation Project*
+> AI-powered career guidance platform that analyzes resumes, identifies skill gaps, and recommends personalized learning paths for target career roles. Built intelligent modules for CV extraction, skill normalization, skill-gap analysis, and recommendation generation. Evaluated using **Precision@K**, **MRR**, and **NDCG** metrics.
+> `Python` · `NLP` · `Machine Learning` · `Recommender Systems`
+
+---
+
+### 🎬 Climate Change Visualization — Text-to-Video Diffusion
+> Research-grade text-to-video generation pipeline using **CogVideoX diffusion models** to visualize climate change impacts in urban environments. Compared CogVideoX-2B vs 5B models using **SSIM**, **PSNR**, **LPIPS**, and **Flow Warping Error**. Implemented optical-flow-guided smoothing and dynamic classifier-free guidance scheduling.
+> `Python` · `Diffusion Models` · `CogVideoX` · `Computer Vision Research`
+
+---
+
+### 🔧 Self-Healing Automation Workflow
+> Designed and implemented an automated self-healing workflow that monitors system events, detects failures, and executes predefined recovery actions — reducing manual intervention and improving system reliability.
+> `Python` · `Automation` · `System Monitoring`
+
+---
+
+### 🧬 [Brain Tumor Detection — CNN](https://github.com/Ayaah71/Brain-tumor-CNN)
+> Deep learning model using CNNs to classify brain MRI scans for tumor detection.
 > `Python` · `TensorFlow` · `CNN` · `Medical Imaging`
+
+---
+
+### 💬 Mental Health Prediction — ANN
+> Deep learning model to predict depression risk based on user inputs. Applied data preprocessing, normalization, and neural network techniques to build and evaluate the prediction model.
+> `Python` · `Artificial Neural Networks` · `Deep Learning`
 
 ---
 
@@ -50,21 +73,9 @@
 
 ---
 
-### ☁️ [AIU Cloud Learning Platform](https://github.com/Rodina404/aiu-cloud-learning-platform)
-> Cloud-based collaborative learning platform built for university students.
-> `Python` · `Cloud Computing`
-
----
-
-### 🎮 [MAR — Reinforcement Learning Game](https://github.com/Rodina404/MAR-game)
-> RL game implementing 3 different algorithms to teach agents how to play.
-> `Python` · `Reinforcement Learning`
-
----
-
-### 💼 [AI Skill Mentor for Job Seekers](https://github.com/Rodina404/AI-Skill-Mentor-Job-Seekers)
-> AI-powered career guidance platform that analyzes CVs using NLP to identify skill gaps and generate personalized learning paths.
-> `Python` · `NLP` · `LangChain` · `Career AI`
+### 🏠 Smart Home Network — Cisco Packet Tracer
+> Designed and implemented a smart home network architecture with VLANs, static IP addressing, AAA security, and server-based home automation management.
+> `Cisco Packet Tracer` · `Networking` · `VLANs` · `AAA Security`
 
 ---
 
